@@ -1,0 +1,17 @@
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\bin\Debug\SQL_DB.mdf
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\bin\Debug\SQL_DB_log.ldf
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\bin\Debug\ReadingCommicBook.exe.config
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\bin\Debug\ReadingCommicBook.exe
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\bin\Debug\ReadingCommicBook.pdb
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingBook.csproj.AssemblyReference.cache
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.Form1.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.GUI.frm_AddChap.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.GUI.frm_BookDisplay.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.GUI.frm_BookInfo.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.frm_Dashboard.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.GUI.frm_Manage.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.Properties.Resources.resources
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingBook.csproj.GenerateResource.cache
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingBook.csproj.CoreCompileInputs.cache
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.exe
+E:\Study\DotNet\ReadingCommicBook\ReadingCommicBook\obj\Debug\ReadingCommicBook.pdb
